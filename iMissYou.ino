@@ -2,7 +2,6 @@
 /*
   Expansion of Yún HTTP Client example http://arduino.cc/en/Tutorial/HttpClient
   Pushover service > https://pushover.net
-  Emoji Hex Codes > http://apps.timwhitlock.info/emoji/tables/unicode
  */
 
 #include <Bridge.h>
@@ -39,7 +38,9 @@ int calH = 30;
 const int ledReady = 8;
 const int ledSend = 9;
 
-// Messages to send & emoticons -------------------------->>
+// Messages to send & emoticons. Make these as saccharine as you like! 
+// Add emoticons using Hex Codes > http://apps.timwhitlock.info/emoji/tables/unicode 
+// -------------------------->>
 
 char *think[]={"Counting the hours until he can be with you \xE2\x8F\xB3", "He's thinking of you \xF0\x9F\x98\x8D","There's nowhere else on this world that he'd rather be than beside you right now \xE2\x9B\xB5\xF0\x9F\x8C\xB4", "He touched your face!", "F'k em all. Let's run off and live in a yurt!"};
 long thinking;
