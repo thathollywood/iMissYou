@@ -24,7 +24,7 @@ I touch the faces on my family’s photo - Instantly, anywhere in the world, the
 * Assorted wires
 * [Pushover account](https://pushover.net) for notifications. 
 
+More information about the project can be found on my [blog](http://www.thathollywood.com/imissyou-a-new-p2p-product-for-the-internet-of-things/)
+
 ![image](http://www.thathollywood.com/wp-content/uploads/2015/06/IMG_0146-1024x768.jpg)
 ![image](http://www.thathollywood.com/wp-content/uploads/2015/06/IMG_2899.jpg)
-
-More information on the project can be found on my [blog](http://www.thathollywood.com/imissyou-a-new-p2p-product-for-the-internet-of-things/)
